@@ -1,0 +1,38 @@
+German Shepherd Animation Ranges:
+
+Idle 			0 - 110
+Idle Happy 		115-205
+Idle Focused		210-300
+Idle Sit 		305-405
+Idle Lay_Down 		410-510
+Idle Sleep 		515-575
+
+Bark 			580-660
+Bite 			665-705
+Damage 			710-740
+Give Paw		745-825
+Hear Something		830-920
+Scratch			925-1015
+Shake			1020-1080
+Sniff			1085-1185
+Tilt Head		1190-1305
+
+Walk			1310-1330
+Walk Turn Right		1335-1355
+Walk Turn Left		1360-1380
+Run			1385-1400
+Run Turn Right		1405-1420
+Run Turn Left		1425-1440
+Turn Right		1445-1475
+Turn Left		1480-1510
+Walk Backwards		1515-1540
+Walk In Place		1545-1565
+Run In Place		1570-1585
+Walk Backwards In Place	1590-1615
+
+Jump Up			1620-1650
+Air Flip		1655-1675
+Fall			1680-1705
+Land			1710-1735
+
+
